@@ -46,4 +46,4 @@ These instructions will get you a copy of the project up and running on your loc
 ## Acknowledgments
 
 * Hat tip to anyone whose code was used
-* You can actually make this entire project yourself by following this [link](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
+* You can actually make this entire project yourself by following this [tutorial](https://docs.djangoproject.com/en/3.0/intro/tutorial01/)
